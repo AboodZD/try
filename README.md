@@ -77,3 +77,4 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-trick
 
 ## واجهة المستخدم
 تم تطوير واجهة المستخدم باستخدام ReactJS لتوفير تجربة سلسة.
+## TypeScript
